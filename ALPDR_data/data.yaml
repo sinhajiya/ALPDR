@@ -1,0 +1,13 @@
+train: /kaggle/input/alpdr-dataset/ALPDR_data/train/images
+val: /kaggle/input/alpdr-dataset/ALPDR_data/valid/images
+test: /kaggle/input/alpdr-dataset/ALPDR_data/test/images
+
+nc: 1
+names: ['licenseplate']
+
+roboflow:
+  workspace: alpdr
+  project: alpdr-akgky
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/alpdr/alpdr-akgky/dataset/1
