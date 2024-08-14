@@ -1,8 +1,11 @@
 # AUTOMATIC LICENSE PLATE DETECTION AND RECOGNITION
 
 - DATASET:
+  
   Took pictures from [Kaggle](https://www.kaggle.com/datasets/andrewmvd/car-plate-detection)
+  
   Annotated it on [Roboflow](https://app.roboflow.com/)
+  
   Stored in: ALPDR_data, [Kaggle](https://www.kaggle.com/datasets/sinha05/alpdr-dataset)
 
 ## STEP1: Detection
