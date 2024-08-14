@@ -1,5 +1,7 @@
 # AUTOMATIC LICENSE PLATE DETECTION AND RECOGNITION
 
+KAGGLE NOTEBOOK: (https://www.kaggle.com/code/sinha05/alpdr)
+
 - DATASET:
   
   Took pictures from [Kaggle](https://www.kaggle.com/datasets/andrewmvd/car-plate-detection)
