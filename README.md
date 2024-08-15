@@ -17,7 +17,7 @@ KAGGLE NOTEBOOK: (https://www.kaggle.com/code/sinha05/alpdr)
   ![image](https://github.com/user-attachments/assets/6e5a29a6-d4ea-4224-aaf8-419ee1ff7147)
 
 - How to detect:
-!python "\yolov5\detect.py" --weights "\model\last.pt" --img 640 --conf 0.10 --source <img-path> --save-crop
+!python "\yolov5\detect.py" --weights "\model\last.pt" --img 640 --conf 0.10 --source [img-path] --save-crop
 
 - Detection:
   
@@ -29,3 +29,6 @@ This is stored after cropping the license plate in the way:
 
 ![image](https://github.com/user-attachments/assets/ac39db58-eb97-4d7e-882a-7114897c9946)
 
+
+- MODEL:
+   The best model after 100 epochs is stored on [Kaggle](https://www.kaggle.com/models/sinha05/alpdr_yolov5_model)
