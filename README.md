@@ -17,7 +17,7 @@ KAGGLE NOTEBOOK: (https://www.kaggle.com/code/sinha05/alpdr)
   ![image](https://github.com/user-attachments/assets/6e5a29a6-d4ea-4224-aaf8-419ee1ff7147)
 
 - How to detect:
-!python "\yolov5\detect.py" --weights "\model\last.pt" --img 640 --conf 0.10 --source <img-path> --save-crop
+!python "\yolov5\detect.py" --weights "\model\last.pt" --img 640 --conf 0.10 --source [img-path] --save-crop
 
 - Detection:
   
