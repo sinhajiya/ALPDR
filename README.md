@@ -42,7 +42,7 @@ KAGGLE NOTEBOOK: (https://www.kaggle.com/code/sinha05/alpdr)
   
     ![image](https://github.com/user-attachments/assets/fc16e460-f7fd-40db-a5a1-378828717c56)
 
-  ## Text Recognition
+  ## STEP3: Text Recognition
 
   For OCR, pytesseract is used.
   
